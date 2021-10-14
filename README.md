@@ -16,8 +16,11 @@ Performing analysis including data organization for refined visual presention an
 * Most successful campaigns occur in May and June.
 
 #### "Conclusion"
-1. The mean campaign goal is around 4000 pounds which is outside of the range of outliers for the amount pledged
-2. Louise should try getting her play produced for less than 4000 pounds.
+1. The mean campaign goal is around 4000 pounds
+2. This is outside of the range of outliers for the amount pledged
+
+##### "Recommendation"
+- Louise should try getting her play produced for less than 4000 pounds.
 
 ![Category statistics](/Users/funmi-macbook/Desktop/Class folder/Class work_1_images_Category statistics.png)
 
