@@ -21,6 +21,10 @@ Performing analysis including data organization for refined visual presention an
 
 ![Category statistics](/Users/funmi-macbook/Desktop/Class folder/Class work_1_images_Category statistics.png)
 
+![Category statistics](https://user-images.githubusercontent.com/91637293/137311414-c75f7a93-d955-4077-9015-d6a3f32299d2.png)
+![Outcome Based on Launch Date](https://user-images.githubusercontent.com/91637293/137311459-667e0444-011c-42e7-93d8-dd5f530173f0.png)
+![Subcategory statistics](https://user-images.githubusercontent.com/91637293/137311496-b8defda8-9230-4aac-b36c-f028f5097188.png)
+
 
 
 
